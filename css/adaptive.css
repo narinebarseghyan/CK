@@ -1,0 +1,272 @@
+@media screen and (max-width: 1220px){
+    .container {
+        width: 75%;
+    }
+}
+@media screen and (max-width: 1123px){
+    .circle {
+        width: 197px;
+        height: 197px;
+        padding: 53px 0 0;
+    }
+    .container-for-circle {
+        width: 762px;
+    }
+    .container {
+        width: 82%;
+    }
+}
+@media screen and (max-width: 1008px){
+    .container-for-circle {
+        margin-left: 128px;
+        width: 697px;
+    }
+}
+@media screen and (max-width: 1008px){
+    .cont-for-text {
+        width: 368px;
+    }
+    .container-for-circle {
+        margin-left: 104px;
+    }
+}
+@media screen and (max-width: 888px){
+    h1 {
+        font-size: 45px;
+        padding: 69px 0 70px 0;
+        width: 573px;
+    }
+    .main-text {
+        font-size: 24px;
+        color: white;
+        margin-left: 145px;
+    }
+    .circle {
+        width: 167px;
+        height: 167px;
+        padding: 40px 0 0;
+    }
+    .cost {
+        font-size: 29px;
+    }
+    .container-for-circle {
+        margin-left: 85px;
+        width: 617px;
+    }
+    .cont-for-text {
+        width: 333px;
+    }
+}
+@media screen and (max-width: 790px){
+    .container {
+        width: 85%;
+    }
+    #tel {
+        display: none;
+    }
+    .contact {
+        width: 41px;
+        border-radius: 42px;
+        padding: 11px 7px 0;
+        height: 42px;
+        margin-top: 15px;
+    }
+    #divide-icon {
+        display: none;
+    }
+    .circle {
+        width: 147px;
+        height: 147px;
+        padding: 36px 0 0;
+    }
+    .cost {
+        font-size: 26px;
+    }
+    .describe {
+        width: 123px;
+    }
+    .container-for-circle {
+        margin-left: 82px;
+        width: 534px;
+    }
+    h1 {
+        font-size: 42px;
+        padding: 55px 0 70px 0;
+        width: 529px;
+    }
+    .main-text {
+        margin-left: 96px;
+        width: 477px;
+    }
+}
+@media screen and (max-width: 660px){
+    h1 {
+        font-size: 37px;
+        padding: 51px 0 56px 0;
+        width: 469px;
+    }
+    .main-text {
+        margin-left: 78px;
+        width: 423px;
+        font-size: 21px;
+        margin-right: 0;
+    }
+    button {
+        margin-left: 259px;
+    }
+    .container-for-circle {
+        margin-left: 66px;
+        width: 495px;
+    }
+}
+@media screen and (max-width: 585px){
+    #third-circle {
+        display: none;
+    }
+    .container-for-circle {
+        margin-left: 111px;
+        width: 350px;
+    }
+    header {
+        padding: 26px 0 59px;
+    }
+    .group-2 {
+        display: block;
+    }
+    .cont-for-text a {
+        font-size: 12px;
+    }
+    .cont-for-text {
+        width: 272px;
+    }
+    h1 {
+        font-size: 30px;
+        padding: 50px 0 55px 0;
+        width: 383px;
+    }
+    .main-text {
+        margin-left: 40px;
+        width: 345px;
+        font-size: 17px;
+    }
+    button {
+        margin-left: 170px;
+    }
+    
+}
+@media screen and (max-width: 529px){
+    .container-for-circle {
+        margin-left: 85px;
+        width: 352px;
+    }
+    .container-for-circle-2 {
+        margin-left: 191px;
+    }
+    .cont-for-text {
+        display: none;
+    }
+    #bar {
+        display: block !important;
+    }
+    .bar:hover .cont-bar-a a {
+        display: block;
+    }
+    .container-for-circle-2 {
+        margin-left: 177px;
+    }
+    
+}
+@media screen and (max-width: 485px){
+    .container-for-circle {
+        margin-left: 61px;
+        width: 345px;
+    }
+    .container-for-circle-2 {
+        margin-left: 159px;
+    }
+}
+@media screen and (max-width: 435px){
+    .container-for-circle {
+        margin-left: 43px;
+        width: 317px;
+    }
+    .container-for-circle-2 {
+        margin-left: 133px;
+    }
+    h1 {
+        font-size: 25px;
+        padding: 50px 0 55px 0;
+        width: 316px;
+    }
+    .main-text {
+        margin-left: 29px;
+        width: 285px;
+        font-size: 14px;
+    }
+    button {
+        margin-left: 114px;
+    }
+    button {
+        width: 165px;
+    }            
+}
+@media screen and (max-width: 380px){
+    .circle {
+        width: 130px;
+        height: 130px;
+        padding: 26px 0 0;
+    }
+    .cost {
+        font-size: 21px;
+    }
+    .describe {
+        width: 109px;
+        font-size: 14px;
+    }
+    .container-for-circle {
+        margin-left: 45px;
+        width: 284px;
+    }
+    .container-for-circle-2 {
+        margin-left: 125px;
+    }
+}
+@media screen and (max-width: 353px){
+    .container-for-circle {
+        margin-left: 32px;
+    }
+    .container-for-circle-2 {
+        margin-left: 110px;
+    }
+    h1 {
+        font-size: 23px;
+        padding: 50px 0 55px 0;
+        width: 285px;
+    }
+    .main-text {
+        margin-left: 16px;
+        width: 260px;
+        font-size: 13px;
+    }
+    
+}
+@media screen and (max-width: 330px){
+    .container-for-circle {
+        margin-left: 21px;
+        width: 282px;
+    }
+    .container-for-circle-2 {
+        margin-left: 100px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
